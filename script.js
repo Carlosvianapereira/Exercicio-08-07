@@ -99,3 +99,4 @@ async function initMap(lat, long, name) {
 }
 
 //initMap();
+// teste
