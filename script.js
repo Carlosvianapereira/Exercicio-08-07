@@ -1,4 +1,4 @@
-let tableBody = document.getElementById('.tableBody');
+let tableBody = document.getElementById('tableBody');
 
   //criar a div que terá o mapa
   const divMap = document.querySelector('div');
